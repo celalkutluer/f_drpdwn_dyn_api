@@ -1,5 +1,5 @@
 # f_drpdwn_dyn_api
-![Alt text](/master/asset/drpdwn.gif?raw=true "Optional Title")
+![Alt text](/asset/drpdwn.gif?raw=true "Optional Title")
 A new Flutter project.
 
 ## Getting Started
